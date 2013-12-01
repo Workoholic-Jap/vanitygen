@@ -23,7 +23,7 @@ On blockchain: just click on Import/Export and add your new private key.
 
 ### Saying thanks
 
-If you liked it, feel free to send some coins my way:
+I merely added a 'How to' for a Mac OS X install and cherry-picked the appropriate changes into the original version. But if you still liked it, feel free to send some coins my way:
 
 **1ConstiNNkcAvymc97JK7VngmabtBtAyuU**
 
