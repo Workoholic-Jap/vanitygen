@@ -2,7 +2,7 @@
 
 This version has been updated to work perfectly well on Mac OS X (tested on 10.9).
 
-Prequesites:
+Prerequisites:
 * Install [homebrew](http://brew.sh/) as package manager (make sure to have xcode installed (see ``brew doctor``)
 * Clone this repository ``git clone https://github.com/consti/vanitygen.git``
 * Run ``make``
@@ -17,10 +17,16 @@ Address: 1LoveRg5t2NCDLUZh6Q8ixv74M5YGVxXaN
 Privkey: 5JLUmjZiirgziDmWmNprPsNx8DYwfecUNk1FQXmDPaoKB36fX1o
 ```
 
+### Using your new vanity address
+
+On blockchain: just click on Import/Export and add your new public address (and add the private key).
+
+#### Original Author & Contributors
+
 I've only included changes from other people (see commits/contributors) to make it work for Mac OS X. The original application is from [samr7](https://github.com/samr7/vanitygen).
 
 
-#### original readme
+##### original readme
 
 I'd like to present a standalone command line vanity address generator 
 called vanitygen.
