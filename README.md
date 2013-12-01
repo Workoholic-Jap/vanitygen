@@ -19,7 +19,13 @@ Privkey: 5JLUmjZiirgziDmWmNprPsNx8DYwfecUNk1FQXmDPaoKB36fX1o
 
 ### Using your new vanity address
 
-On blockchain: just click on Import/Export and add your new public address (and add the private key).
+On blockchain: just click on Import/Export and add your new private key.
+
+### Saying thanks
+
+If you liked it, feel free to send some coins my way:
+
+**1ConstiNNkcAvymc97JK7VngmabtBtAyuU**
 
 #### Original Author & Contributors
 
